@@ -5,3 +5,4 @@ Cherche le commit où tu as ajouté le deuxième indice sans la réponse et trou
 
 Une fois que tu as confirmé, envoie la réponse et va ouvrir recompense.txt.
 
+réponse : Mon Nov 18 10:14:57 2024 +0100
